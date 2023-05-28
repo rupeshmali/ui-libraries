@@ -1,0 +1,19 @@
+.Buttons-div{
+  display: flex;
+  gap:20px;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  max-width: 300px;
+  min-width: 100px;
+}
+
+.inputs{
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+  gap:50px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-width: 500px;
+  min-width: 500px;
+}

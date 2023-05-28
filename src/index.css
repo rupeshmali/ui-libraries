@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&family=Inter&family=Righteous&family=Secular+One&display=swap');
+
+
+body {
+  font-family: 'Inter';
+  padding: 50px;
+  margin: 0;
+  display: flex;
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+}
